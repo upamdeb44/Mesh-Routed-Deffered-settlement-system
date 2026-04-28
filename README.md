@@ -28,8 +28,6 @@ Payments are encrypted on the sender's device, broadcast to nearby phones, and h
 
 ---
 
----
-
 ## Architecture
 
 ```
@@ -137,9 +135,9 @@ This test creates one packet, fires 3 threads at `BridgeIngestionService.ingest(
 ---
 
 ## How to run it
-git clone https://github.com/upamdeb44/Mesh-Routed-Deffered-settlement-system
-cd mesh-routed-settlement
-./mvnw spring-boot:run
+- git clone https://github.com/upamdeb44/Mesh-Routed-Deffered-settlement-system
+- cd mesh-routed-settlement
+- .\mvnw spring-boot:run
 
 ---
 
